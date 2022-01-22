@@ -11,9 +11,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/googollee/go-socket.io/engineio/frame"
-	"github.com/googollee/go-socket.io/engineio/packet"
-	"github.com/googollee/go-socket.io/engineio/transport"
+	"github.com/dmskys/go-socket.io/engineio/frame"
+	"github.com/dmskys/go-socket.io/engineio/packet"
+	"github.com/dmskys/go-socket.io/engineio/transport"
 )
 
 var tests = []struct {
